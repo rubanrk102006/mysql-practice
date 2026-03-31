@@ -1,1 +1,5 @@
-# mysql-practice
+# MySQL Practice
+
+## Output Screenshot
+
+![SQL Output](sql_output.png)
